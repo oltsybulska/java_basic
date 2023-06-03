@@ -5,11 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-<<<<<<< HEAD
-    <artifactId>LAB4</artifactId>
-=======
-    <artifactId>LAB5</artifactId>
->>>>>>> 641487a14768171dadd856f33298f75ef66fc4ef
+    <artifactId>LAB3</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
